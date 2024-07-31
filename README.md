@@ -1,6 +1,6 @@
 # Dhanush T S
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanush-t-s-660396259lue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhanush-t-s-660396259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanush-t-s-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhanush-t-s-660396259/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Dhanushts-black?style=flat-square&logo=github)](https://github.com/Dhanushts)
 
