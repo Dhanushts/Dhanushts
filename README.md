@@ -1,42 +1,45 @@
-aravinths479/readme.md
-Aravinth Subramanian
-LinkedIn GitHub
+# Dhanush T S
 
-About Me
-Hello! 👋 I'm Aravinth, a passionate developer with experience in web development and full-stack MERN (MongoDB, Express, React, Node.js) development. I enjoy building scalable and efficient cloud native applications using modern technologies.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhanush-t-s-660396259-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhanush-t-s-660396259/)
+[![GitHub](https://img.shields.io/badge/GitHub-Dhanushts-black?style=flat-square&logo=github)](https://github.com/Dhanushts)
 
-LeetCode Profile
-You can find me on LeetCode at leetcode.com/aravinths911. I enjoy tackling LeetCode problems in Java to sharpen my algorithmic and problem-solving skills.
+## About Me
 
-Problem Solutions
-I maintain a repository with my solutions to various coding problems, including LeetCode and other common practice problems. The solutions are implemented in Java. You can explore the solutions and code snippets in my Problem Solutions repository.
+Hello! 👋 I'm Dhanush, a passionate developer with experience in web development and full-stack MERN (MongoDB, Express, React, Node.js) development. I enjoy building scalable and efficient cloud native applications using modern technologies.
 
-Technologies and Skills
-Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
-Backend: NodeJs, ExpressJs, Postman
-Database: MongoDB, MySQL
-Amazon Web Services (AWS), Docker
-Web Security, Microservices
-Languages: Java(Proficient), C, C++, Python
-Version Control: Git
-Windows CLI
-GitHub Stats
-GitHub Stats
+## LeetCode Profile
 
-Projects
+You can find me on LeetCode at [leetcode.com/user4676yk](https://leetcode.com/u/user4676yk/). I enjoy tackling LeetCode problems in Java to sharpen my algorithmic and problem-solving skills.
+
+
+## Technologies and Skills
+
+- Frontend: HTML, CSS, JavaScript, Bootstrap, ReactJs
+- Backend: NodeJs, ExpressJs, Postman
+- Database: MongoDB, MySQL
+- Languages: Java(Proficient), C, C++, Python
+
+
+## Projects
+
 Here are some of the projects I've worked on:
 
-Automobile Finance
-Vegetable Supply Chain Management
-DataLoom - A Google Drive Clone
-Coding Club Website
-Event Ticket Booking
-Car Rental Application
-Contact
-GitHub : github.com/aravinths479
-LinkedIn : linkedin.com/in/aravinth-subramanian
-Email : aravinths911@gmail.com
-Contributions and Collaboration
+1. [Billing and Stock Maintenance System](https://github.com/Dhanushts/Billing-and-Stock-Maintenance-System.git)
+2. [Audio player Application](https://github.com/Dhanushts/Audio-player-Application.git)
+3. [Tours and Travel website](https://github.com/Dhanushts/tours-website.git)
+
+## Contact
+
+- GitHub   : [github.com/Dhanushts](https://github.com/Dhanushts)
+- LinkedIn : [linkedin.com/in/dhanush-t-s-660396259](https://www.linkedin.com/in/dhanush-t-s-660396259/)
+- Email    : sankardhanusg72@gmail.com
+
+## Contributions and Collaboration
+
 I'm always open to collaboration and contributions. If you'd like to contribute to any of my projects or have any ideas for collaboration, feel free to reach out to me.
 
+## Let's Connect!
 
+I'm excited to connect with fellow developers and learn from the community. If you find something interesting in my repositories, don't forget to star it! Let's learn and grow together.
+
+Happy coding! 🚀
