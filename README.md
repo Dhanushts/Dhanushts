@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 - GitHub   : [github.com/Dhanushts](https://github.com/Dhanushts)
 - LinkedIn : [linkedin.com/in/dhanush-t-s-660396259](https://www.linkedin.com/in/dhanush-t-s-660396259/)
-- Email    : sankardhanusg72@gmail.com
+- Email    : sankardhanush72@gmail.com
 
 ## Contributions and Collaboration
 
